@@ -1,0 +1,62 @@
+﻿<Window x:Class="WpfApp7.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp7"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Canvas>
+
+      
+
+        <Polygon Fill="Blue"  Points="600 20 600 80 500 80" Height="90" Width="613"/>
+
+        <Polygon Fill="LightGray"  StrokeThickness="2" Points="600 20 670 32 680 89 600 80" Width="704" Height="90"/>
+
+        <Polygon Fill="Blue" Points="670 34 750 100 675 90" Width="753" Height="99"/>
+
+        <Polygon Fill="LightGray" Points="500 80 600 80 590 152 495 148" StrokeThickness="2"  Width="601" Stroke="Blue"/>
+
+        <Polygon Fill="LightGray" Points="600 80 590 152  670 163 675 89" StrokeThickness="2"  Width="675" Stroke="Blue"/>
+
+        <Polygon Fill="LightGray" Points="673 90  670 163  740 163  750 100" StrokeThickness="2" Width="753" Stroke="Blue" />
+
+        <Polygon Fill="Blue" Points="494 148 490 226  580 230  590 151" StrokeThickness="2" Stroke="White" Width="601"/>
+
+        <Polygon Fill="Blue" Points="667 163  662 230  582 229  592 154" StrokeThickness="2" Stroke="Blue" Width="687"/>
+
+        <Polygon Fill="Blue" Points="668 166  664 231  730 231  740 165" StrokeThickness="2" Width="792" Height="231"/>
+
+        <Polygon Fill="LightGray" Points="490 228  486 295  570 308  580 233" StrokeThickness="2" Stroke="Blue" Width="792"/>
+
+        <Polygon Fill="White" Points="580 233  572 308  660 316  666 235" StrokeThickness="2" Stroke="Blue" Width="782"/>
+
+        <Polygon Fill="LightGray" Points="669 233  664 316  730 319  730 235" StrokeThickness="2" Stroke="Blue" Width="782"/>
+
+        <Polygon Fill="Blue" Points="570 311  560 370  488 300" StrokeThickness="2" Stroke="Blue" Width="782"/>
+
+        <Polygon Fill="LightGray" Points="573 311  563 373  650 380  660 319" StrokeThickness="2" Stroke="Blue"/>
+
+        <Polygon Fill="Blue" Points="663 320  655 380  725 322" StrokeThickness="2" Stroke="Blue" Width="758"/>
+
+
+        <Polygon Fill="LightGray" Points="300 150  300 225  369 225  370 150" StrokeThickness="2" Stroke="Blue"/>
+
+        <Polygon Fill="LightGray" Points="360 150  360 225 422 225 428 150" StrokeThickness="2" Stroke="Blue" Width="439"/>
+
+        <Polygon Fill="LightGray" Points="425 225  430 150  493 150  489 225" StrokeThickness="2" Stroke="Blue" Width="514"/> 
+
+
+
+       
+
+       
+
+
+       
+
+       
+
+    </Canvas>
+</Window>
